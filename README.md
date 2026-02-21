@@ -5,4 +5,4 @@ and give an insightful solution for future outcome. I have analyzed the data too
 Trend Overtime,Holiday sales and Non holiday sales and how unemployment is efecting the overall sales
 and which store is giving more sales compare to others
 ## Data Source
-We have analyzed the csv file for walmart from https://www.kaggle.com/datasets/yasserh/walmart-dataset kagle
+We have analyzed the csv file for walmart from https://www.kaggle.com/datasets/yasserh/walmart-dataset kaggle
