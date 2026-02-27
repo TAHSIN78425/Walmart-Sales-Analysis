@@ -28,7 +28,7 @@ https://www.kaggle.com/datasets/yasserh/walmart-dataset
 - SQL — Exploratory data analysis
 - Power BI — Interactive dashboard and reporting
 ## Process
-- Step 1: Data Cleaning:
+- **Step 1**: Data Cleaning:
   <br/>
   Key cleaning steps included:
 <br/>  Converted date fields from string format to proper date format
@@ -42,7 +42,7 @@ https://www.kaggle.com/datasets/yasserh/walmart-dataset
   <br/>
     <br/>
 
-- Step 2: Exploritory Data Analysis 
+- **Step 2:** Exploritory Data Analysis 
 Business Questions
 
 1. Does average weekly sales vary with unemployment levels?
@@ -62,18 +62,18 @@ This is the interactive dashboard that explains all this questions visually
 Key Findings from the dashboard are
 indings shown on dashboard:
 
-- Holiday weeks show 3.78% higher sales
+- Holiday weeks show **3.78%** higher sales
 - Store 20 consistently outperforms others
 - Sales decline as unemployment rises
 - CPI is key influencer for sales incline or decline
-- 
+
 ### Final Recommendations
 - Increase inventory ahead of holiday weeks
   <br/>
   <br/>
  Since holiday periods show higher weekly sales, pre-position additional inventory and staffing to capture peak demand and avoid stockouts.
 
-- Leverage best practices from Store 20
+- Leverage best practices from Store **20**
   <br/>
   <br/>
   Store 20 consistently outperforms other locations. Analyze its pricing, promotions, and operational strategies and replicate successful tactics in underperforming stores.
