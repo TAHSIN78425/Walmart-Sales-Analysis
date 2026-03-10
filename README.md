@@ -42,7 +42,7 @@ https://www.kaggle.com/datasets/yasserh/walmart-dataset
   <br/>
     <br/>
 
-- **Step 2:** Exploritory Data Analysis 
+- **Step 2:** Exploratory Data Analysis 
 Business Questions
 
 1. Does average weekly sales vary with unemployment levels?
