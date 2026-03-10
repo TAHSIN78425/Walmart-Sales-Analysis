@@ -54,7 +54,7 @@ Business Questions
 4. Which stores consistently generate the highest sales relative to CPI and unemployment?
 
 5. Is fuel price related to temperature, and does this relationship impact sales?
--  Step3: Creating Report for Addressing Problems
+- **Step 3**: Creating Report for Addressing Problems
 This is the interactive dashboard that explains all this questions visually
 <br/>
 <br/>
