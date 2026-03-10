@@ -118,7 +118,7 @@ findings shown on dashboard:
 - Holiday weeks show **3.78%** higher sales
 - Store 20 consistently outperforms others
 - Sales decline as unemployment rises
-- CPI is key influencer for sales incline or decline
+- Unemployment is key influencer for sales incline or decline
 
 ### Final Recommendations
 - Increase inventory ahead of holiday weeks
