@@ -34,13 +34,7 @@ https://www.kaggle.com/datasets/yasserh/walmart-dataset
 <br/>  Converted date fields from string format to proper date format
  <br/>  Handled inconsistent formatting
  <br/>  Created a new conditional column based on Holiday_Flag to improve report readability
-  <br/>
-  <br/>
-  <img src='https://github.com/TAHSIN78425/Walmart_Sales_Analysis-Images/blob/98624e4c091689c1b40ca6584f703c923e1cfbed/Date%20Format.png'/> 
-  <span> =>  <span/>
-  <img src='https://github.com/TAHSIN78425/Walmart_Sales_Analysis-Images/blob/24d0b5c182812c51777b628454bd891e9f5ee9ad/Correct%20Format.png'/>
-  <br/>
-    <br/>
+ 
 
 - **Step 2:** Exploratory Data Analysis 
 Business Questions
@@ -55,12 +49,71 @@ Business Questions
 
 5. Is fuel price related to temperature, and does this relationship impact sales?
 - **Step 3**: Creating Report for Addressing Problems
-This is the interactive dashboard that explains all this questions visually
-<br/>
-<br/>
-<img src='https://github.com/TAHSIN78425/Walmart_Sales_Analysis-Images/blob/882eab7c9705c24d687280a6a2e757778f82c5d5/Walmart%20Dashboard.png'/>
-Key Findings from the dashboard are
-indings shown on dashboard:
+### Dashboard
+The Power BI dashboard was designed to provide a comprehensive overview of Walmart’s sales performance across stores, time periods, and economic conditions.
+It highlights key performance metrics and visual insights that help identify sales trends, store performance differences, and the potential impact of external economic indicators.
+
+<img src='https://github.com/TAHSIN78425/images/blob/main/Walmart%20Dashboard.png'/>
+
+**Key Performance Indicators (KPIs)**
+
+The dashboard includes several KPIs to quickly summarize overall performance:
+
+- Total Sales – Displays the total revenue generated across all stores and time periods.
+
+- Total Stores – Shows the number of stores included in the dataset.
+
+- Top Store by Sales – Identifies the store generating the highest total sales.
+
+- Average Weekly Sales – Represents the average sales generated per week across all stores.
+
+- Average Monthly Sales – Calculates the average monthly sales using a DAX measure.
+
+**Visualizations**
+
+The dashboard includes multiple visualizations to explore sales patterns, store performance, and the influence of economic factors.
+
+**Weekly Sales Trend**
+
+ The **line chart** showing weekly sales across time using the Year-Month field. A reference line highlights the maximum weekly sales, making it easier to identify peak performance periods and seasonal trends.
+
+**Holiday vs Non-Holiday Sales**
+
+  This visualization compares the average weekly sales during holiday weeks and non-holiday weeks, helping determine whether holidays significantly impact sales performance.
+
+**Temperature vs Fuel Price**
+
+  The **scatter chart** analyzing the relationship between temperature and fuel price to observe seasonal patterns that may influence transportation and logistics costs.
+
+**Weekly Sales vs CPI and Store**
+
+  The **line chart** comparing CPI (Consumer Price Index) trends with weekly sales across stores. This helps identify whether inflation trends may correlate with sales performance.
+
+**Store Performance Ranking**
+
+  The **bar chart** ranking stores based on total sales, allowing quick identification of the highest-performing and lowest-performing locations.
+
+**Weekly Sales vs Unemployment**
+
+   A scatter plot examining the relationship between unemployment rates and weekly sales. This visualization helps determine whether broader economic conditions influence consumer spending behavior.
+   
+**Dashboard Purpose**
+
+The dashboard enables stakeholders to:
+
+- Monitor overall sales performance
+
+- Identify seasonal sales patterns
+
+- Compare holiday and non-holiday sales trends
+
+- Evaluate the impact of macroeconomic indicators such as CPI and unemployment
+
+- Identify top-performing and underperforming stores
+
+
+**Key Findings** from the dashboard are
+findings shown on dashboard:
 
 - Holiday weeks show **3.78%** higher sales
 - Store 20 consistently outperforms others
