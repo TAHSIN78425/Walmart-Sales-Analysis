@@ -1,5 +1,5 @@
 # Walmart Sales Data Analysis
-## Bussiness Problem
+## Business Problem
 Walmart is experiencing fluctuations in weekly sales across stores and time periods. Leadership needs to understand which factors—such as holidays, unemployment, CPI (Consumer Price Index), fuel prices, and temperature—are driving these changes in order to improve sales forecasting, promotional planning, and operational decision-making.
 
 Additionally, some stores consistently outperform others while some underperform. The business needs to identify the underlying drivers of this performance gap and determine how best practices can be replicated across lower-performing locations.
