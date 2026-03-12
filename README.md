@@ -28,25 +28,25 @@ https://www.kaggle.com/datasets/yasserh/walmart-dataset
 - SQL — Exploratory data analysis
 - Power BI — Interactive dashboard and reporting
 ## Process
-**Data Cleaning**:
+## Data Cleaning:
 Key cleaning steps included:
 - Converted date fields from string format to proper date format
 - Handled inconsistent formatting
 - Created a new conditional column based on Holiday_Flag to improve report readability
  
 
- **Exploratory Data Analysis**: 
-Business Questions
+ ## Exploratory Data Analysis: 
+ Business Questions
 
-1. Does average weekly sales vary with unemployment levels?
+ 1. Does average weekly sales vary with unemployment levels?
 
-2. Are holiday weekly sales higher than non-holiday sales?
+ 2. Are holiday weekly sales higher than non-holiday sales?
 
-3. Is fuel price correlated with CPI (Consumer Price Index)?
+ 3. Is fuel price correlated with CPI (Consumer Price Index)?
 
-4. Which stores consistently generate the highest sales relative to CPI and unemployment?
+ 4. Which stores consistently generate the highest sales relative to CPI and unemployment?
 
-5. Is fuel price related to temperature, and does this relationship impact sales?
+ 5. Is fuel price related to temperature, and does this relationship impact sales?
 
 ### Dashboard
 The Power BI dashboard was designed to provide a comprehensive overview of Walmart’s sales performance across stores, time periods, and economic conditions.
