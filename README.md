@@ -28,15 +28,14 @@ https://www.kaggle.com/datasets/yasserh/walmart-dataset
 - SQL — Exploratory data analysis
 - Power BI — Interactive dashboard and reporting
 ## Process
-- **Step 1**: Data Cleaning:
-  <br/>
-  Key cleaning steps included:
-<br/>  Converted date fields from string format to proper date format
- <br/>  Handled inconsistent formatting
- <br/>  Created a new conditional column based on Holiday_Flag to improve report readability
+**Data Cleaning**:
+Key cleaning steps included:
+- Converted date fields from string format to proper date format
+- Handled inconsistent formatting
+- Created a new conditional column based on Holiday_Flag to improve report readability
  
 
-- **Step 2:** Exploratory Data Analysis 
+ **Exploratory Data Analysis**: 
 Business Questions
 
 1. Does average weekly sales vary with unemployment levels?
@@ -48,7 +47,7 @@ Business Questions
 4. Which stores consistently generate the highest sales relative to CPI and unemployment?
 
 5. Is fuel price related to temperature, and does this relationship impact sales?
-- **Step 3**: Creating Report for Addressing Problems
+
 ### Dashboard
 The Power BI dashboard was designed to provide a comprehensive overview of Walmart’s sales performance across stores, time periods, and economic conditions.
 It highlights key performance metrics and visual insights that help identify sales trends, store performance differences, and the potential impact of external economic indicators.
