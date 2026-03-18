@@ -1,11 +1,11 @@
-# Walmart Sales Data Analysis
-## Business Problem
+# 🛒 Walmart Sales Dashboard
+## 🎯 Business Problem
 Walmart is experiencing fluctuations in weekly sales across stores and time periods. Leadership needs to understand which factors—such as holidays, unemployment, CPI (Consumer Price Index), fuel prices, and temperature—are driving these changes in order to improve sales forecasting, promotional planning, and operational decision-making.
 
 Additionally, some stores consistently outperform others while some underperform. The business needs to identify the underlying drivers of this performance gap and determine how best practices can be replicated across lower-performing locations.
 
 This analysis aims to uncover the key drivers of sales performance and highlight opportunities for data-driven business optimization.
-## Project Overview
+## 📊 Project Overview
 The primary objective of this analysis is to identify key business factors affecting Walmart’s weekly sales and provide actionable insights for future decision-making.
 
 This project investigates:
@@ -19,23 +19,23 @@ This project investigates:
 
 The goal is to help stakeholders understand what drives sales fluctuations and where optimization opportunities exist.
 
-### Data Source
+### 📂 Dataset
 Dataset obtained from Kaggle:
 https://www.kaggle.com/datasets/yasserh/walmart-dataset
 
-### Tools
+### 🛠 Tools Used
 - Excel — Data cleaning and preprocessing
 - SQL — Exploratory data analysis
 - Power BI — Interactive dashboard and reporting
-## Process
-## Data Cleaning:
+### Process
+## 🧹 Data Cleaning
 Key cleaning steps included:
 - Converted date fields from string format to proper date format
 - Handled inconsistent formatting
 - Created a new conditional column based on Holiday_Flag to improve report readability
  
 
- ## Exploratory Data Analysis: 
+ ## 🔎 Exploratory Data Analysis (EDA)
  Business Questions
 
  1. Does average weekly sales vary with unemployment levels?
@@ -48,13 +48,13 @@ Key cleaning steps included:
 
  5. Is fuel price related to temperature, and does this relationship impact sales?
 
-### Dashboard
+### 📈 Dashboard
 The Power BI dashboard was designed to provide a comprehensive overview of Walmart’s sales performance across stores, time periods, and economic conditions.
 It highlights key performance metrics and visual insights that help identify sales trends, store performance differences, and the potential impact of external economic indicators.
 
 <img src='https://github.com/TAHSIN78425/images/blob/main/Walmart%20Dashboard.png'/>
 
-**Key Performance Indicators (KPIs)**
+### 📊 Key Performance Indicators (KPIs)
 
 The dashboard includes several KPIs to quickly summarize overall performance:
 
@@ -68,7 +68,7 @@ The dashboard includes several KPIs to quickly summarize overall performance:
 
 - Average Monthly Sales – Calculates the average monthly sales using a DAX measure.
 
-**Visualizations**
+###  📈 Visualizations
 
 The dashboard includes multiple visualizations to explore sales patterns, store performance, and the influence of economic factors.
 
@@ -119,7 +119,7 @@ findings shown on dashboard:
 - Sales decline as unemployment rises
 - Unemployment is key influencer for sales incline or decline
 
-### Final Recommendations
+### 📌Recommendations
 - Increase inventory ahead of holiday weeks
   <br/>
   <br/>
